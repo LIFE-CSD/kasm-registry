@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://lifeeducationtrust.com/',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
